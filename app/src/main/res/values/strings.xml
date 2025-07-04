@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyQuizapp</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_name">please Enter Your Name</string>
+    <string name="name">Name</string>
+    <string name="start">Start</string>
+    <string name="Please_enter_your_name" />
+    <string name="Please_Enter_Your_Name">Please Enter Your Name</string>
+    <string name="what_country_does_this_flag_belong_to">What country does this flag belong to?</string>
+    <string name="quiz_image">Quiz Image</string>
+    <string name="_0_9">0/9</string>
+    <string name="_0_8">0/8</string>
+    <string name="submit">Submit</string>
+    <string name="india">India</string>
+    <string name="china">China</string>
+    <string name="bhutan">Bhutan</string>
+    <string name="america">America</string>
+    <string name="result">Result</string>
+    <string name="image">Image</string>
+    <string name="hey_congratulations">Hey, Congratulations!</string>
+    <string name="user_name">User Name</string>
+    <string name="your_score_is_0_out_of_8">Your Score is 0 out of 8</string>
+    <string name="finish">Finish</string>
+    <string name="your_score_is_0_out_of_9">Your Score Is 0 Out Of 9</string>
+</resources>
