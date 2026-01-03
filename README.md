@@ -51,3 +51,12 @@ Activity / Fragment
 ViewModel
    ↓
 Data Source
+
+![1](https://github.com/user-attachments/assets/cebc050c-7f76-4a45-aeec-e22a6c7631ec)
+
+![2](https://github.com/user-attachments/assets/c23fb3d2-7a35-4547-8ad7-70dd684de136)
+
+![3](https://github.com/user-attachments/assets/0d255c53-a0fb-4e65-8dfd-4a02995875a4)
+
+![4](https://github.com/user-attachments/assets/2982c4da-4002-4a4b-91ae-4daf82570619)
+
